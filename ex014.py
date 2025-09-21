@@ -1,5 +1,4 @@
-# Escreva um programa que converte uma temperatura digitada em 
-# celsius e converta para fahrenheit.
+# Escreva um programa que converte uma temperatura digitada em celsius e converta para fahrenheit.
 
 celsius= float(input('Digite uma temperatura em Celsius: '))
 

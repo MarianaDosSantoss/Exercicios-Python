@@ -1,4 +1,4 @@
-# Crie um programa que escreva "Olá Mundo" na tela
+# Crie um programa que escreva "Olá Mundo" na tela.
 
 msg = 'Olá, Mundo!'
 print(msg)
