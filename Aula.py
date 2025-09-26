@@ -77,3 +77,12 @@ print(dividido[0])
 print(dividido[2][3])
 # pedir para o chat dar outras mais usadas
 
+# ------------------------------------------------
+
+tempo = int(input('Quantos anos tem seu carro?'))
+print('Carro novo' if tempo <=3 else 'Carro velho')
+
+nome = str(input('qual o seu nome?'))
+if nome == 'Gustavo':
+    print('Que nome lindo você tem')
+print('bom dia gustavo{}'.format(nome))
